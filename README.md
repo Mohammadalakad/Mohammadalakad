@@ -1,14 +1,15 @@
 ## شرح Quatebot 👋
-`#include <iostream>
-#include <fstream>
-#include <map>
-#include <vector>
-#include <string>
-#include <cstdlib>
-#include <ctime>
-#include <sstream>
-#include <regex>
-#include <cctype>`.
+
+`# include <iostream>`
+`# include <fstream>`
+`# include <map>`
+`# include <vector>`
+`# include <string>`
+`# include <cstdlib>`
+`# include <ctime>`
+`# include <sstream>`
+`# include <regex>`
+`# include <cctype>`
 ><iostream> / مكتبة أساسية للتعامل مع عمليات الإدخال والإخراج مثل cout و cin)
 
 ><fstream> / التعامل مع الملفات (قراءة كتابة هنا تستخدم لقراءة الاقتباسات من الملف
@@ -26,5 +27,5 @@
 ><regex> استخدام regex_replace لحذف علامات الترقيم
 
 ><cctype للتعامل مع الاحرف, تحويلها من صغير الى كبير و العكس
-`using namespace std;`
+>`using namespace std;`
 >#`hhhhh`
